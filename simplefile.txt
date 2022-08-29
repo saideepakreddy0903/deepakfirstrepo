@@ -1,23 +1,5 @@
-# Deepakfirstrepo
-My name is "***Sai Deepak Reddy Byreddy***"
-
-I like listening songs.
-
-This is my firt assignment on the Github 
-
-I am doing my masters in Applied computer science
-
-I have enrolled in three subjects for my 1st semester i.e 
-
-
-
-
-* Development of Web Apps and Services.
-* Database Systems.
-* Objected oriented programming.
-
----
-
-This is my Github account
-
-[Github/Deepak](https://github.com/saideepakreddy0903)
+01 line Every (change on line 1)
+02 line Good
+03 line Boy (change on line 3)
+04 line Deserves
+05 line Favor
